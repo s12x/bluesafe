@@ -1,0 +1,2 @@
+# bluesafe
+A optional BSOD
